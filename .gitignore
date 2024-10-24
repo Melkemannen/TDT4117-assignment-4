@@ -91,3 +91,4 @@ Vagrantfile
 mybb/
 mariadb/
 postgres/
+.venv
